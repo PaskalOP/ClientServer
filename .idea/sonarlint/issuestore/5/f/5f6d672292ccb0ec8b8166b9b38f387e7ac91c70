@@ -1,0 +1,15 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(°êÛø8ûµ©Áâ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èú—ëşÿÿÿÿ8„¶©Áâ1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×‚»ì8¦¶©Áâ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(×‚»ì8¬¶©Áâ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(×‚»ì8²¶©Áâ1
+H
+java:S1874"+Remove this use of "URL"; it is deprecated.(Á³Ûä8Œ»­Áâ1
+F	java:S106"+Replace this use of System.out by a logger.(ÉÇ@8Ê¶©Áâ1
+T
+java:S1128"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8—»­Áâ1
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8—»­Áâ1
